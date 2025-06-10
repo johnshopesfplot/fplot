@@ -10,7 +10,7 @@ that you can use to embed plots in WinForms or ASP.NET WebForms.
 If you like Johns Hope's FPlot, and it helped you save a lot of work, please consider to [donate to us with PayPal](https://www.paypal.com/donate/?hosted_button_id=KQCGG3NDJRR2S).
 
 ## Download
-[Download Johns Hope's FPlot](https://github.com/johnshopesfplot/fplot/releases/download/2.22/JohnsHope.FPlot.2.22.msi)
+[Download Johns Hope's FPlot 2.22](https://github.com/johnshopesfplot/fplot/releases/download/2.22/JohnsHope.FPlot.2.22.msi)
 
 
 ![Screenshot](https://github.com/simonegli8/JohnshopesFPlot/blob/master/Setup/screenshot.jpg)
