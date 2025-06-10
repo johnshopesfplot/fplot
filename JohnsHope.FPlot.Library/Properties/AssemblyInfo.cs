@@ -30,7 +30,7 @@ using System.Web.UI;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("2.21.0.0")]
+[assembly: AssemblyVersion("2.22.0.0")]
 
 //
 // In order to sign your assembly you must specify a key to use. Refer to the 
@@ -59,7 +59,7 @@ using System.Web.UI;
 //
 [assembly: AssemblyDelaySign(false)]
 [assembly: AssemblyKeyName("")]
-[assembly: AssemblyFileVersionAttribute("2.21.0.0")]
+[assembly: AssemblyFileVersionAttribute("2.22.0.0")]
 [assembly: ComVisibleAttribute(false)]
 [assembly: GuidAttribute("14b125a6-6235-401b-98bc-bc58a7526a14")]
 

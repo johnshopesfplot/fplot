@@ -358,12 +358,6 @@
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_661FDFB9DFE8441DBE3384514121EF77"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
-        "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_C5EEEB432B9E41E09CF70BD85343B7C3"
         "MsmSig" = "8:_UNDEFINED"
         }
@@ -407,6 +401,12 @@
         {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_7EEC810F870B7E77F52CA0FDBCFA3090"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_661FDFB9DFE8441DBE3384514121EF77"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -659,7 +659,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot.Excel, Version=2.20.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot.Excel, Version=2.22.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_245131B16C90AA8B5B2C98FA9E0FF418"
@@ -1405,7 +1405,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot, Version=2.20.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot, Version=2.22.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_C5EEEB432B9E41E09CF70BD85343B7C3"
@@ -1476,7 +1476,7 @@
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot.Library, Version=2.20.0.0, Culture=neutral, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:JohnsHope.FPlot.Library, Version=2.22.0.0, Culture=neutral, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
                     "_D67C1154AF8BBADF3039020A67395F23"
@@ -1926,16 +1926,16 @@
         "Product"
         {
         "Name" = "8:Microsoft Visual Studio"
-        "ProductName" = "8:Johns Hope's FPlot 2.21"
-        "ProductCode" = "8:{AEEFE5D6-F22B-4C42-B767-9022AF96F613}"
-        "PackageCode" = "8:{75FF57BC-12D3-4501-B0D7-3803DE438536}"
+        "ProductName" = "8:Johns Hope's FPlot 2.22"
+        "ProductCode" = "8:{71B488AE-93C9-4FEF-84F1-962AB8C298DB}"
+        "PackageCode" = "8:{FD0C85CA-969A-4A28-A90A-B9D7CB435D85}"
         "UpgradeCode" = "8:{3074BAA5-6FD3-434B-82FF-3A332A8D59D2}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
         "RemovePreviousVersions" = "11:TRUE"
         "DetectNewerInstalledVersion" = "11:TRUE"
         "InstallAllUsers" = "11:TRUE"
-        "ProductVersion" = "8:2.20"
+        "ProductVersion" = "8:2.22"
         "Manufacturer" = "8:Johns Hope Software"
         "ARPHELPTELEPHONE" = "8:"
         "ARPHELPLINK" = "8:http://www.johnshope.com/fplot"

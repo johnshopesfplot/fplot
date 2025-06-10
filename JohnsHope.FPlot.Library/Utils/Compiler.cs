@@ -814,7 +814,7 @@ namespace JohnsHope.FPlot.Library {
 
 						if (recompile || x == null || source != x.src) {
 
-							string cstr = "/target:library /fullpaths";
+							string cstr = "/target:library /fullpaths /langversion:latest";
 							CompilerParameters par = new CompilerParameters(GetImports(obj is ICompilableLibrary)); // get imports before Add 
 
 							x = AddItem(obj);
