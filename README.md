@@ -3,7 +3,7 @@ Johns Hope's FPlot. A fast &amp; flexible Software to Plot and Fit functions and
 and FPlot compiles them on the fly. You can also reference numerical C# libraries. That way you can express any function, no matter how complicated.
 
 ## Open Source
-Johns Hope's FPlot is OpenSource and available on [GitHub](https://github.com/simonegli8/JohnshopesFplot), it is distributed with a MIT license. It also has a Library
+Johns Hope's FPlot is OpenSource and available on [GitHub](https://github.com/johnshopefplot/fplot), it is distributed with a MIT license. It also has a Library
 that you can use to embed plots in WinForms or ASP.NET WebForms.
 
 ## Donating
