@@ -21,6 +21,7 @@ Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebDemo", ".", "{276418C1-D
 		Release.AspNetCompiler.FixedNames = "false"
 		Release.AspNetCompiler.Debug = "False"
 		VWDPort = "49285"
+		SlnRelativePath = "..\WebDemo\"
 	EndProjectSection
 EndProject
 Global

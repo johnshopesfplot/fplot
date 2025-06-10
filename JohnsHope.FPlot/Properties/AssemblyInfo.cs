@@ -14,7 +14,7 @@ using JohnsHope.Update;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Johns Hope Software")]
 [assembly: AssemblyProduct("JohnsHope's FPlot")]
-[assembly: AssemblyCopyright("© 2007 Johns Hope Software")]
+[assembly: AssemblyCopyright("© 2025 Estrellas de Esperanza")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: Updater(VersionUrl="http://www.johnshope.com/fplot/version.aspx", UpdateForm = typeof(JohnsHope.FPlot.UpdateForm))]
@@ -30,7 +30,7 @@ using JohnsHope.Update;
 // You can specify all the values or you can default the Revision and Build Numbers 
 // by using the '*' as shown below:
 
-[assembly: AssemblyVersion("2.20.0.0")]
+[assembly: AssemblyVersion("2.21.0.0")]
 
 //
 // In order to sign your assembly you must specify a key to use. Refer to the 
@@ -62,4 +62,4 @@ using JohnsHope.Update;
 [assembly: AssemblyKeyName("")]
 [assembly: ComVisibleAttribute(false)]
 [assembly: NeutralResourcesLanguageAttribute("en")]
-[assembly: AssemblyFileVersionAttribute("2.20.0.0")]
+[assembly: AssemblyFileVersionAttribute("2.21.0.0")]

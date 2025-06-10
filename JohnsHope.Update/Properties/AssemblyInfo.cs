@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("JohnsHope's Updater")]
-[assembly: AssemblyCopyright("Copyright ©  2009")]
+[assembly: AssemblyCopyright("Copyright ©  2025 Estrellas de Esperanza")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
