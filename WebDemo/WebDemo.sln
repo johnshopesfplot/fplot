@@ -1,8 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "C:\...\WebDemo\", ".", "{276418C1-D6F2-466E-AD6C-4D0A646EECDA}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36121.58 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "WebDemo", ".", "{276418C1-D6F2-466E-AD6C-4D0A646EECDA}"
 	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.8"
 		Debug.AspNetCompiler.VirtualPath = "/WebDemo"
 		Debug.AspNetCompiler.PhysicalPath = "..\WebDemo\"
 		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\WebDemo\"
@@ -30,5 +33,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79C34C4F-2F3A-46F7-B6FD-F30D2E305AF5}
 	EndGlobalSection
 EndGlobal

@@ -64,7 +64,7 @@ namespace JohnsHope.FPlot.Library.Web {
 	/// &lt;html&gt;
 	/// &lt;body&gt;
 	///   &lt;form id="form1" runat="server"&gt;
-	///     &lt;fplot:PlotImage ID="plot" runat="server" TempPath="~/temp" Width="300px" Height="200px" EnableZooming="true" /&gt;
+	///     &lt;fplot:PlotImage ID="plot" runat="server" TempPath="~/App_Data/temp" Width="300px" Height="200px" EnableZooming="true" /&gt;
 	///   &lt;/form&gt;
 	/// &lt;/body&gt;
 	/// &lt;/html&gt;
@@ -82,7 +82,7 @@ namespace JohnsHope.FPlot.Library.Web {
 	[DefaultProperty("TempPath"), ParseChildren(false),
 		AspNetHostingPermission(SecurityAction.Demand, Level=AspNetHostingPermissionLevel.Minimal),
 		AspNetHostingPermission(SecurityAction.InheritanceDemand, Level=AspNetHostingPermissionLevel.Minimal),
-		ToolboxData("<{0}:PlotImage runat=\"server\" TempPath=\"~/temp\" />"),
+		ToolboxData("<{0}:PlotImage runat=\"server\" TempPath=\"~/App_Data/temp\" />"),
 		ToolboxBitmap(typeof(resfinder), "JohnsHope.FPlot.Library.Resources.Mandelbrot.ico")]
 	public class PlotImage: System.Web.UI.WebControls.Image, IPostBackDataHandler, IPostBackEventHandler {
 
